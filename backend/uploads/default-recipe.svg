@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#F5EFEB"/>
+  <circle cx="400" cy="270" r="140" fill="#E8DED1"/>
+  <path d="M330 310C330 350 360 380 400 380C440 380 470 350 470 310H330Z" fill="#D35400"/>
+  <path d="M320 300H480C485 300 490 295 490 290V280C490 275 485 270 480 270H320C315 270 310 275 310 280V290C310 295 315 300 320 300Z" fill="#E06B43"/>
+  <path d="M370 240C370 220 380 200 390 190" stroke="#2D5A46" stroke-width="6" stroke-linecap="round"/>
+  <path d="M400 240C400 220 410 200 420 190" stroke="#2D5A46" stroke-width="6" stroke-linecap="round"/>
+  <path d="M430 240C430 220 440 200 450 190" stroke="#2D5A46" stroke-width="6" stroke-linecap="round"/>
+  <text x="400" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="700" fill="#1E3A2F" text-anchor="middle">RecipeHub Delicious Creation</text>
+  <text x="400" y="485" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#7A6F64" text-anchor="middle">Fresh ingredients • Made with passion</text>
+</svg>
